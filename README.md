@@ -1,7 +1,8 @@
 # **Telecom X - Análise de Evasão de Clientes**
 # Introdução:
 
-A empresa Telecom X enfrenta um alto índice de cancelamentos e busca compreender os fatores que levam à perda de clientes. O objetivo deste estudo é transformar dados brutos em informações estratégicas que auxiliem a Telecom X na retenção de seus clientes.
+A empresa Telecom X enfrenta um alto índice de cancelamentos e busca compreender os fatores que levam à perda de clientes.
+O objetivo deste estudo é transformar dados brutos em informações estratégicas que auxiliem a Telecom X na retenção de seus clientes.
 
 # Limpeza e Tratamento de Dados:
 *  Os dados foram obtidos em formato JSON. 
